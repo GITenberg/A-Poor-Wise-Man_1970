@@ -1,0 +1,29 @@
+_repo: A-Poor-Wise-Man_1970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Like the best of Mary Roberts Rinehart's novels, A Poor Wise Man combines
+  a number of literary elements -- romance, intrigue, and mystery -- which unfold
+  against the backdrop of war and political unrest. Fans of historical romance and
+  classic mystery will enjoy this read.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: A Poor Wise Man
+url: http://www.gutenberg.org/ebooks/1970
